@@ -4,7 +4,7 @@ My name is Erfan Pourazizian
 Im' junior front end developer
 -----------------------------
 
-*   🖥️  See my resume  [here](https://badrnezhad.com)
+*   🖥️  See my resume  [here](https://cvbuilder.me/Builder/Pdf/fa/Template4/8d4e6b47-1daa-4f2e-8a72-eec8e7f3ea14/MyResume-726[www.cvbuilder.me].pdf)
 *   🤝  I'm open to collaborating on interesting projects as a front end developer
 
                   
