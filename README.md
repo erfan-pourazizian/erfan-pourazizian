@@ -1,7 +1,7 @@
 My name is Erfan Pourazizian
 ===============================
 
-Developer
+Im' junior front end developer
 -----------------------------
 
 *   🖥️  See my resume at [badrnezhad.com](https://badrnezhad.com)
