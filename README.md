@@ -1,4 +1,6 @@
-My name is Erfan Pourazizian
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Erfan+Pourazizian;Frontend+developer"></a>
+</p>
 ===============================
 
 I'm junior front end developer
