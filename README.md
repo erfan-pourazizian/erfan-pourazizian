@@ -1,14 +1,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Erfan+Pourazizian;Frontend+developer"></a>
 </p>
-===============================
 
-I'm junior front end developer
------------------------------
 
 *   🖥️  See my resume  [here](https://cvbuilder.me/Builder/Pdf/fa/Template4/8d4e6b47-1daa-4f2e-8a72-eec8e7f3ea14/MyResume-726[www.cvbuilder.me].pdf)
 *   ✉️  You can contact me at [erfan8202@gmail.com](mailto:erfan8202@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects as a front end developer
+*   🤝  I'm open to collaborating on interesting projects as a frontend developer
 *   🌍  I'm based in Karaj, Iran
 
 
