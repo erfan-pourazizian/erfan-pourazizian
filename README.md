@@ -66,18 +66,6 @@
       height="36"
       alt="tailwind"
     />
-    <img
-      src="https://user-images.githubusercontent.com/91010211/188341154-1adc7669-7000-4f36-ad71-cb2981c68eae.png"
-      width="36"
-      height="36"
-      alt="jest"
-    />
-    <img
-      src="https://user-images.githubusercontent.com/91010211/188342080-12066371-8fa6-4036-891b-7e5eb70d0147.png"
-      width="36"
-      height="36"
-      alt="testing-library"
-    />
 </p>
                     
 ### Socials
