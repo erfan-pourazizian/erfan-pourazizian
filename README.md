@@ -3,9 +3,10 @@
 </p>
 
 
-  :computer:  See my resume  [here](https://github.com/erfan-pourazizian/erfan-pourazizian/files/9953401/erfan-pourazizian-cv.pdf)<br/>
+
+  :computer:  See my resume  [here](https://github.com/erfan-pourazizian/erfan-pourazizian/files/9953460/erfan-pourazizian-cv.pdf)<br/>
   :speech_balloon: You can contact me at [erfan8202@gmail.com](mailto:erfan8202@gmail.com)<br/>
-  🤝  I'm open to collaborating on interesting projects as a frontend developer<br/>
+  🤝 I'm open to collaborating on interesting projects as a frontend developer<br/>
   🌍 I'm based in Karaj, Iran<br/>
 
 
