@@ -4,7 +4,7 @@
 
 
 
-  :computer:  See my resume  [here](https://cvbuilder.me/resume/fa/8d4e6b47-1daa-4f2e-8a72-eec8e7f3ea14?mode=2&template=template26)<br/>
+  :computer:  See my resume  [here](https://cvbuilder.me/Builder/Pdf/fa/template26/8d4e6b47-1daa-4f2e-8a72-eec8e7f3ea14/MyResume-306[www.cvbuilder.me]792.pdf)<br/>
   :speech_balloon: You can contact me at [erfan8202@gmail.com](mailto:erfan8202@gmail.com)<br/>
   🤝 I'm open to collaborating on interesting projects as a frontend developer<br/>
   🌍 I'm based in Karaj, Iran<br/>
