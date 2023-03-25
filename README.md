@@ -26,7 +26,7 @@
       alt="Javascript"
     />
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
       width="36"
       height="36"
       alt="NextJS"
